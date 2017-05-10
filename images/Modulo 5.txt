@@ -1,0 +1,45 @@
+M�DULO 5
+�	Transformaci�n digital con cloud
+-	Ser m�s competitivo
+-	No necesitas gastar tanto para entrar y competir
+-	Lo que m�s usan las empresas en Cloud P�blica
+
+�	Ciclo De Vida De Nuevos Servicios Y Competitividad
+-	adaptar el modelo de soluciones y automatizarla
+
+�	Profundizamos Devops
+-	Agilidad y time to market
+-	M�todo de cascada
+-	Aprovisionamiento �gil
+-	Juntas a desarrolladores y operadores (expertos en explotaci�n de informaci�n)
+-	IaaS para hacerlo din�mico ofreciendo una infraestructura deseada.
+-	Contenedores (docket, vmware, mesos y aws)
+-	PaaS para aislar al desarrollador de la complejidad de la infraestructura.
+-	La tecnolog�a ayuda a habilitar este modelo.
+-	Persigue acelerar los ciclos de desarrollo de aplicaciones y servicios
+
+�	Nuevos Perfiles Profesionales
+-	Los perfiles no est�n desapareciendo, se est�n transformando.
+
+�	Nuevo Modelo Organizativo
+-	El proyecto el foco est� en el resultado.
+-	En los servicios el foco est� en los usuarios.
+-	Los silos no permiten una integraci�n organizativa que ponga foco en los usuarios y los servicios.
+
+�	Eficiencia E Innovaci�n
+-	la innovaci�n est� dentro de la compa��a
+-	No solo se trata de reducir costes y personal, se trata de hacer las cosas de forma diferente
+
+�	Movilidad Empresarial
+-	Ya no hay un per�metro, ahora puedes acceder desde cualquier parte y darle continuidad al negocio.
+-	el usuario y el ejercicio de su actividad profesional lo que adquiera movilidad, y para ello se dotan dispositivos, capacidades de comunicaci�n y servicios.
+-	Aspectos relevantes de una plataforma digital de usuario son: OFERTA DE SERVICIOS A TRAV�S DE UNA CAT�LOGO.
+
+�	Plataforma Digital De Usuario Y Cloud
+-	se busca la mayor productividad de usuario.
+-	El contexto importa mucho y se rigen en base a las pol�ticas de la empresa.
+-	Seguridad Contextual 
+-	Apoyo en plataformas cloud.
+
+
+Waterfall pone foco en el cumplimiento de requisitos de usuario y agile en la entrega r�pida de resultados.

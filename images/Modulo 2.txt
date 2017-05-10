@@ -1,0 +1,65 @@
+MODULO 2
+Infraestructura como servicio (IaaS) v2
+Es Un modelo de servicio cloud que abstrae recurso de TI como c�mputo, almacenamiento, redes, entro otros, y los ofrece como servicios.
+�	Adoptar el modelo Cloud implica asumir cambios
+�	Primera capa: Virtualizaci�n abstrae a las aplicaciones del hardware
+
+Gesti�n de un servicio cloud debe automatizarse.
+�	Si se consume de un tercero o el me ofrece las capacidades �ra gestionar lo que se despliega ah� o me doto de esas capacidades, si se construye en casa para gobernar y gestionar lo que se est� desplegando.
+�	Vigilar rendimiento, consumo con las capacidades automatizadas, si paga algo se podr� identificar donde est� el problema y poder solucionarlo
+�	Redimensi�n de maquinas
+�	Implementacion: Monitorizaci�n del consumo del servicio; Monitorizaci�n de la calidad del servicio; Gesti�n de las operaciones de las plataformas y recursos del servicio.
+Profundizamos HDDC vs SDDC
+La decisi�n sobre HDDC o SDDC depende del tipo de cargas a alojar y su evoluci�n.
+�	SDDC: CENTRO DE DATOS DEFINIDO POR SOFTWARE: utiliza un hardware gen�rico
+�	HDDC: CENTRO DE DATOS DEFINIDO POR HARDWARE: para requerimientos puntuales o caracter�sticas t�cnicas claves.
+�	La infraestructura debe ser los m�s gen�rica posible, debe ser f�cil de operar, de consumir, de encontrar, expandir y hacer crecer, se debe enfocar en las capas m�s cercanas al servicio.
+�	Software define utiliza un hardware gen�rico
+
+
+Plataforma como servicio (PaaS) v2
+IaaS es la base sobre la cual se implementan y se prestan servicios Paas, pide servicio.
+�	Pedir recursos centradas en la aplicaci�n para construirla, desplegarla y que vaya creciendo.
+�	La plataforma exhibe APIS, consume de la infraestructura tirando del API de infraestructura. Pide a la infraestructura recurso seg�n los vaya necesitando.
+�	Se centra en el servicio, en la aplicaci�n.
+Software como servicio (SaaS)
+SaaS NO es el tipo de cloud que m�s nivel de abstracci�n tiene respecto a la infraestructura.
+�	Solo se preocupa en usar el servicio, consume software
+�	Abstracci�n.
+�	Niveles: Infraestructura, Plataforma, Software
+�	Pol�ticas de Cloud �firts�: si existe una oferta de software como servicio acorde a mis necesidades, la consumo; si no existe, me construyo una aplicaci�n o servicio, pero me abstraigo de la infraestructura o me construyo a medida una.
+�	El API es una extensi�n que permite ir desarrollando e integrando cosas.
+�	La evoluci�n que se espera es que haya m�s oferta sectorial orientado a un sector espec�fico.
+Profundizamos Arquitectura IaaS, PaaS
+IaaS
+�	Se debe ofrecer los servicios de arquitectura dependiendo del servicio Cloud que se ofrecer�.
+�	Se apoyan en dos elementos: Gesti�n del servicio desde el punto de vista como negocio y temas de operaciones.
+�	La clave est� en dar un servicio �gil, potente robusto, controlable y fiable.
+�	Para implementar un servicio IaaS NO basta con virtualizar elementos de infraestructura. 
+�	La virtualizaci�n es la base de la Infraestructura como servicio
+PaaS:
+�	Se requiere m�s capas, consume infraestructura a trav�s de un API.
+�	Foco de aplicaci�n, abstrayendo la infraestructura.
+�	Incorpora la capa de abstracci�n a trav�s de la infraestructura
+�	Se ofrecen al usuario en modo servicio bajo demanda y con escalabilidad.
+
+
+
+El navegador como herramienta principal
+�	Las aplicaciones evolucionan gracias al navegador, es una herramienta est�ndar
+�	Accede a una serie de recursos ya desarrollada.
+�	Debe ser r�pida y accesible.
+�	Cambio de desarrollo de las empresas
+�	La abstracci�n es importante, se debe conseguir ser lo m�s flexibles posible al ofrecer cosas a los usuarios finales
+�	El navegador es un ejemplo de c�mo implementar esa abstracci�n desde el punto de vista del usuario y su plataforma de usuario
+�	El navegador accede a otras series de funcionabilidades cuando estas online y offline
+�	Desde el navegador NO se puede acceder a aplicaciones cloud SaaS por ser una herramienta estandar.
+
+
+
+Cloudbrokers
+�	Es un modelo de intermediaci�n entre los usuarios de Cloud y los prestadores de Cloud.
+�	Da servicios Cloud y factura por servicios de intermediaci�n.
+�	El responsable de inform�tica suele ser el Cloudbrokers, es el que ayuda al negocio, asesora de como dar salida a la necesidad
+�	Surge por la oferta y la demanda y se tiene que llegar a un intermediario.
+�	Su labor nos ayuda a facilitar el acceso a m�ltiples proveedores de servicios y tipos de cloud

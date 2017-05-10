@@ -1,0 +1,39 @@
+MÓDULO 6
+•	HEALTHCARE
+-	Sanidad Digital, múltiples áreas de aplicación de un modelo digital en procesos sanitarios.
+-	En sistema de salud es un sistema muy regulado
+-	Los procesos se pueden dinamizar y se pueden transformar.
+-	Es posible aplicar el modelo cloud en el ámbito sanitario.
+
+•	RETAIL
+-	Inventario esté expuesto de manera online
+-	Los clientes ahora piden saber qué hay, es decir, saber cuánto de stock hay.
+-	Los consumidores esperan arrancar la compra online, en un canal y terminarlo en otro.
+-	Los consumidores agradecen tener a alguien en las tiendas que lo puedan asesorar.
+-	Experiencia de usuario potenciada por dispositivos móviles, aplicaciones móviles.
+-	Experiencia de personal de una tienda potenciada por la interacción digital.
+-	El modelo cloud potenciará las capacidades y servicios del comerciante, así como su relación con el consumidor.
+
+•	SECTOR MEDIA
+-	Ha sufrido una transformación digital radical
+-	Cambios a la hora de generar y consumir contenidos.
+-	Disponibilidad en tiempo real.
+-	Ahora nos podemos enterar de las cosas que pasan en el mundo, en tiempo real.
+-	Crecimiento exponencial de almacenamiento.
+-	Las empresas de media en su mayoría están en proceso de adaptación.
+-	|QUE PODEMOS ESPERAR
+-	Capacidad de adaptación y flexibilidad.
+-	Interacción con el usuario final
+-	Todo el mundo puede ver en video por streming lo que se le ocurra.
+-	El sector Media puede aprovechar las características de soluciones cloud para cambiar e innovar en su "go to market", ofreciendo diferentes y mejores maneras de que los usuarios accedan a la información.
+-	
+
+•	LOGISTICA
+-	Era caro y poco accesible
+-	El comercio electrónico lo ha cambiado todo, donde Amazon es el player más destacable.
+-	El usuario demanda agilidad y rapidez.
+-	EL e-commerce -> volumen -> competencia -> precios más económicos
+-	El usuario quiere saber dónde está su producto, y qué hora a salido, y darle seguimiento en tiempo real.
+-	El sector cloud ha permitido al sector logística a ofrecer información en tiempo real a sus clientes, como, por ejemplo, la localización de los paquetes y fecha exacta de entrega.
+-	Ejemplos de aplicación del modelo cloud en el sector sanitario podrían ser potenciar la relación con el paciente, la gestión de registros médicos, incluso la atención remota de pacientes.
+-	Ejemplos de aplicación del modelo cloud en el sector de retail podrían ser potenciar la relación entre consumidor y comerciante, ofrecer capacidades de inteligencia de negocio al personal de tienda, aprovechar el despliegue de dispositivos móviles en los establecimientos...

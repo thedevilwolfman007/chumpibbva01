@@ -1,0 +1,106 @@
+ESTRATEGIA PARA CLOUD E INNOVACION
+- Virtualizacion, es una t�cnica que permite ejecutar y desplegar m�ltiples sistemas operativos en un mismo 
+servidor f�sico (Esto reduce costo).
+- Era de Infraestructura -> Optimizacion en costos
+- Era de aplicaciones h�bridas -> Las aplicaciones h�bridas son aplicaciones m�viles dise�adas en un 
+lenguaje de programaci�n web ya sea HTML5, CSS o JavaScript, junto con un framework que permite adaptar 
+la vista web a cualquier vista de un dispositivo m�vil. En otras palabras, no son m�s que una aplicaci�n 
+construida para ser utilizada o implementada en distintos sistemas operativos m�viles, tales como, iOS, Android o 
+Windows Phone, evit�ndonos la tarea de crear una aplicaci�n para cada sistema operativo ( Agilidada de negocio )
+- Era de Data hibrida -> es una forma de integraci�n y reutilizaci�n (Nuevo modelo de negocio)
+------------------------------------------------------------
+VELOCIDADES PARA LA INNOVACION DIGITAL
+
+1) Digital Aplications 
+think -> code -> Deliver -> Run -> Production (API Catalog) 
+
+2) Enterprise Aplications
+think -> code -> Deliver -> Run -> Production (Shared Services)
+-----------------------------------------------------------------
+CAPACIDADES NECESARIAS PARA EL TI A 2 VELOCIDADES = INNOVACION
+
+1) Plataforma para aplicaciones digitales (PaaS)
+es un entorno de desarrollo e implementaci�n completo en la nube, con recursos que permiten entregar todo, desde aplicaciones 
+sencillas basadas en la nube hasta aplicaciones empresariales sofisticadas habilitadas para la nube.
+
+2) Integraci�n Hibrida
+Todos aquellos datos que se encuentran actualmente en sus plataformas on premise pueden ser trasladados a la nube 
+o a sus aplicaciones de forma r�pida y sencilla.
+
+3) M�todo DepOps
+participaci�n efectiva de los administradores de sistemas en el proceso de desarrollo de aplicaciones, 
+utilizando las mismas t�cnicas �giles que usan los desarrolladores.
+
+-----------------------------------------------------------
+
+DESIGN THINKING
+crea productos y servicios que tiendan a satisfacer en mejor manera las necesidades de los usuarios haci�ndolos parte activa del proceso de creaci�n
+
+----------------------------------------------
+
+- DevOps Tooling -> Sublime Text, Apache, UrbanCode
+Integracion de Aplicaciones
+- Cat�logo de servicios que ampl�an la funcionalidad de la aplicaci�n-> Web, Data, Mobile, Cognitive, Security, Yours
+- Opciones flexibles para correr las Aplicaciones -> OpenStack, Docker, Cloud Foundry
+- Opciones de implementaci�n de plataforma para cumplir con los requisitos de carga de trabajo -> Bluemix Public, Bluemix Dedicated, Bluemix Local.
+
+- Bluemix -> La plataforma de cloud de IBM Bluemix permite resolver problemas reales y aumentar el valor de negocio con aplicaciones, infraestructura y servicios.
+Combina los servicios, la infraestructura y los datos para llevar r�pidamente sus ideas a la producci�n
+Gestiona y escala su negocio desde el d�a 1 al a�o 105
+Simplifica el proceso de creaci�n de sistemas que utilizan los datos para comprender, razonar y aprender
+
+- Bluemix Dedicated -> Suministre un entorno de Bluemix privado y alojado con un amplio cat�logo de servicios de cloud
+
+- Bluemix Public -> Ejecute el desarrollo en el tiempo de ejecuci�n que prefiera, y utilice m�s de 130 servicios para crear su aplicaci�n m�s r�pido.
+
+- Bluemix Local -> Experimente la potencia del cloud tras el cortafuegos
+
+------------------------------------------------------------------
+En Bluemix se emsambla o compone una aplicaci�n.
+- Iterativo = DevOps, Crear una aplicaci�n segura que analiza el sentimiento sobre ciertos t�picos en las redes sociales.
+
++ Servicio de Reporting
++ Servicios de Seguridad
++ Servicio de Anal�tica social
++ Servicio de extracci�n de datos 
++ Servicio de base de datos
++ Inicio con la creaci�n del App
+
+-------------------------------------
+�QU� PODEMOS HACER CON BLUEMIX?
+- Nuevas aplicaciones nativas en nube
+- Migrar aplicaciones a la nube
+- Microservicios para las Apps Mobile
+- Aplicaciones de Inteligencia Artifical - Cognitivas
+- Aplicaciones de Internet de las Cosas
+- Aplicaciones Anal�ticas y de Business Intelligence
+- API Economy
+- Blockchain
+-------------------------------------------------------------------
+- WATSON -> sistema inform�tico de inteligencia artificial que es capaz de responder a preguntas formuladas en 
+lenguaje natural, desarrollado por la corporaci�n estadounidense IBM
+
+Servicios de watson -> (AlchemyAPI, Conversation, Document Conversion, Language Translation, Language Translator, etc.) 
+--------------------------------------------------------------------
+
+- Tone Analizer Service -> Comprender el tono y el estilo en el texto escrito. El servicio 
+analizador de tono de IBM Watson, utiliza el an�lisis ling��stico para detectar tonos de comunicaci�n 
+en texto escrito. Utilizar el servicio Tone Analyzer para entender conversaciones y comunicaciones, y 
+luego responder a los clientes adecuadamente a escala.
+
+- Bluemix Garage Method -> Una consultor�a global, con el DNA de una startup, que combina las 
+mejores pr�cticas de Design Thinking, Agile Development y Lean Startup para acelerar el desarrollo de 
+aplicaciones y la innovaci�n en el cloud.
+
+- Think-> Code -> Deliver -> Run -> Manage -> Learn.
+- Think, El refinamiento de la conceptualizaci�n y la priorizaci�n de las capacidades.
+- Code, Generaci�n, mejora, optimizaci�n y prueba de caracter�sticas.
+- Deliver, Producci�n automatizada y entrega de ofertas.
+- Run, Services, options, and capabilities required to run in the Cloud.
+- Manage, Supervisi�n continua, apoyo y recuperaci�n de ofrendas.
+- Learn, Aprender continuamente bas�ndose en los resultados de los experimentos.
+-----------------------------------------------------------------------
+
+DevOps = Proceso -> Cultura -> Tecnolog�a  
+Capacidad empresarial para la entrega y gesti�n continua de software que habilita a las organizaciones a innovar 
+r�pidamente para capitalizer en nuevas oportunidades de mercado, y reducir el ciclo de captura y reacci�n al feedback del Cliente.

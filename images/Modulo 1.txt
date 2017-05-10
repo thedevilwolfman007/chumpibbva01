@@ -1,0 +1,77 @@
+M�DULO 1
+�Qu� es el Cloud Computing?
+Es un modelo de entrega y consumo de servicios, es una manera de acceder a unos recursos o capacidades para beneficio de una empresa o individuo, NO es una tecnolog�a. 
+Hay un consumidor y un prestador, el consumidor busca recursos ya que no los produce, por ello lo busca en un prestador y busca acceder de manera directa que suele ser a trav�s de un navegador, internet o app m�vil. No se debe intermediar con humanos, de frente en la web y empezar a consumir el producto.
+Se paga por uso, por consumo en funci�n a la demanda.
+Cloud Computing necesita tecnolog�a para ser implementada y entregada, pero NO es tecnolog�a, es un modelo de relaci�n.
+Palabras clave del Cloud Computing: Flexibilidad, disponibilidad, agilidad, pago por uso, seguridad y control en funcionen de los prestadores.
+
+
+
+
+�Qu� supone para el cliente final (consumidor)?
+El que consume no participa en la creaci�n o producci�n del servicio que est� consumiendo, no tiene el control de lo que pasa en la producci�n y tiene que asumir las condiciones de consumo publicadas por el prestador de servicios, leer bien las condiciones de uso, las condiciones del contrato, saber que est� consumiendo y quien es el responsable, cu�nto cuesta lo que est� consumiendo, las condiciones de seguridad y continuidad y reci�n ah� firmar.
+Se generan ciertos problemas de adopci�n por el usuario por que no acepta su rol, ya que se quiere meter en la producci�n o cadena de suministro, NO deber�a entrar ni replicar el modelo. 
+El Cloud conlleva industria y automatizaci�n.
+A veces se llegan acuerdos particulares, pero muy raras veces.
+
+
+
+
+�Qu� se supone para el prestador?
+Es el que afronta la fuerte inversi�n, automatiza (el consumidor busca acceder al servicio sin ninguna mano humana, el prestador debe estar con los recursos necesarios para responder ante eso), gobernanza (saber que est� ofreciendo y rendimiento, calidad del servicio, cumplimiento con los compromisos, costes) y control. Repone los productos seg�n se va consumiendo.
+En Cloud Computing siempre que no sea gratuito, el usuario paga por el servicio Cloud unas tarifas determinadas en funci�n de la demanda que hace y de lo que va consumiendo.
+
+
+
+Mitos sobre Cloud Computing
+Sale m�s barato hacer o adquirir cloud: dependiendo de lo que haces, si no tienes necesidad, solo por el momento, por picos se usar�a Cloud, por el contrario, si necesitas el recurso 7*7 en mejor armarlo.
+Cloud es seguro y donde est�n los datos: Dependiendo de qui�n est� dando los servicios de Cloud, si el proveedor es grande es mejor la seguridad. Es m�s seguro que el servicio Cloud te lo de un tercero a que sea de tu empresa usuario.
+Cloud Computing es mejor que otros:  significa agilidad, escalabilidad, inmediatez. Cloud no es mejor, es otra opci�n a considerar, ya que es acceso inmediato a un recurso.
+
+
+
+�Qu� dicen los analistas sobre Cloud?
+Diversos analistas consideran que cloud es uno de elementos clave de la transformaci�n que viven los negocios, las empresas y los usuarios.
+
+
+
+Tipos de Nubes
+Se basan en los due�os de los activos que est�n soportando el servicio
+P�blicas: inicio aqu�, servicio remoto de un tercero. 
+Privadas: Aplica el modelo de l cloud publica en un entorno exclusivo. Se ofrecen al usuario interno como las �reas o empleados.
+H�bridas: Aqu� se ofrecen lo mejor de ambos mundos con una buena capa de integraci�n, se puede acceder a recursos de un tercero para no perder eficiencia, agilidad, capacidad de innovaci�n y los recursos que pueda trabajar internamente (gobernanza, maduro, industrializado, automatizado) las presto de mi propia instalaci�n.
+Comunitaria: plataforma de servicios prestados por un grupo de socios que se juntan por que comparten una misma vocaci�n (ej. Bancos) y solo lo prestan a aquellos en el mismo rubro.
+
+
+�Casos de uso de Cloud?
+Se busca encontrar servicios ya publicados y que existan para aplicarlo en su entorno o empresa. Hab�a dos vertientes: infraestructura y producci�n y colaboraci�n.
+Cloud permite acceder a las �ltimas tecnolog�as 
+�Un centro de respaldo podr�amos considerarlo como caso de uso de Cloud Computing?
+Precisamente este caso se adapta perfectamente por necesitarlo solo en momento puntuales.
+Cifras en el mundo Cloud
+Todo a tiempo real y r�pidamente gracias a Cloud Computing. Cloud va creciendo con econom�a escala, crecimiento exponencial de tecnolog�a personal, escalabilidad gracias a Cloud
+�El mundo del hosting se ha visto afectado por los proveedores de SaaS?
+En los �ltimos a�os han aparecido muchos proveedores de p�ginas que han cambiado el modelo de negocio por completo.
+Profundizamos algunas cifras en cloud
+
+
+
+
+�En un proveedor de servicios cloud podemos llegar a pagar por usuario y por hora?
+Cloud permite crear m�ltiples tipos de pago por uso y licenciamiento.
+Cambios en el servicio tradicional hosting
+Se ha venido comprobando que la adopci�n de cloud implica un cambio de modelo, y a veces han surgido barreras culturales.
+
+
+
+Econom�a en Cloud
+Al adoptar cloud se logra agilidad, sin renunciar al control.
+Primeros pasos para una empresa para empezar Cloud
+Esfuerzos culturales, para la adopci�n del modelo. Tener mucho dinamismo en el cat�logo de servicios, las empresas buscan ser m�s competitivas, no siempre consiguen internamente lo que se necesita.
+Shadow IT: Un empleado o unidad de negocio consumiendo servicios cloud de terceros sin pasar por la v�a oficial de la compa��a. No es malo, pero no es lo correcto. Puede hasta fomentar la innovaci�n.
+Por d�nde empezamos
+�	Cambio cultural, industrializaci�n, automatizaci�n, gobernanza, control de lo que esta pasando.
+�	Agilidad, pero sin perder el control.
+�	Flexibilidad sin perder el control de la gobernanza.
+�	Adoptar un modelo cloud implica asumir cambios

@@ -1,0 +1,48 @@
+Seguridad en Cloud
+�	Se tiene que entender que se ha contratado
+�	Los proveedores grandes te dan m�s seguridad
+�	Acceso a mejor tecnolog�a de seguridad
+�	Por seguridad, algunos proveedores dividen la informaci�n en diferentes sitios por si hay un robo de informaci�n no se pueda acceder a la totalidad de ellas
+�	La seguridad en el usuario es la que m�s evoluciona
+�	Los proveedores eligen donde se guardan los datos
+�	Se debe leer el contrato, entenderlo es clave, por si se mueven los datos por la seguridad
+�	La seguridad en cloud es algo que es cr�tico tanto para el usuario como para el prestador.
+
+
+
+Seguridad a nivel de usuario
+�	El usuario sufre una transformaci�n cultural, nuevas formas de trabajar, m�s seguras.
+�	Empieza a trabajar en la nube, colaborativamente
+�	Se evitan las fugas de informaci�n y env�os de correos
+�	Autentificaci�n: se puede identificar con usuario y contrase�a para ingresar en varias aplicaciones (single sign on) y doble identificaci�n (a parte de usuario y contrase�a, te pide un paso que pueden ser n�meros aleatorios con un dispositivo m�vil, por ejemplo).
+�	Dos aspectos importantes de la seguridad a nivel de usuario son la fuga de informaci�n y el robo de contrase�as.
+
+
+
+
+Seguridad a nivel de empresa
+�	Se tiene pol�tica de seguridad y lo ideal ser�a desplegarla y aplicarla �nica y unificada independientemente de donde tenga que aplicarse (casa, nube de terceros, dispositivos o contextos del usuario).
+�	Mientras m�s simple y unificado el entorno y modelo en m�s f�cil de proteger
+�	Pol�tica �nica, plataforma que aplique la pol�tica de manera integradora y unificadora, libertad los destinos en donde se aplicara la seguridad
+�	Actualmente no es as�, hay un intento de pol�tica �nica, y se va aplicando en donde se tiene desplegada la informaci�n. (Dispositivos, pendrives), al tener muchas plataformas, se tiene muchos �per�metros� y ya no hay �per�metro� (seguridad en una zona).
+�	Se invierte mucho en per�metros de seguridad, cosa que cada vez existe menos y solo dejan poca inversi�n en el resto.
+�	Al final se podr� acceder a la informaci�n que esta perimetrada y ser� la inversi�n en vano.
+�	Se tiene que cambiar la proximidad en el tema se seguridad
+�	En Cloud se esfuerzan en la seguridad
+�	En el �rea de seguridad se intenta ofrecer tecnolog�a y servicio que integran donde se tiene la informaci�n (plataformas propias o de terceros) para que se pueda aplicar la pol�tica de seguridad de manera m�s integradora.
+�	Microsegmentaci�n: aplica seguridad dentro del per�metro, es decir, que no solo se resguarda el per�metro, sino todo lo que hay dentro de ella, TODO. Pero no se puede hacer de golpe, se tiene que automatizar para que sea viable. Se define por software que permite granularidad aplicada a cada �tomo de la plataforma este donde este (dispositivo, pc, en el mundo cloud, etc) con una gesti�n unificadora, centralizada e integradora; se podr� llegar a todas las partes con m�s solvencia.
+�	Es una capa y hay que buscar la manera de buscar y evitar la intrusi�n.
+�	En el mundo cloud donde se despliega va la pol�tica de seguridad porque est� definida por software.
+�	Dada la dispersi�n de prestadores y plataformas cloud, la seguridad debe definirse y aplicarse por modelos integrados y unificados.
+
+
+
+
+Profundizamos Seguridad en la empresa
+�	Los ISO permiten considerar el tipo de contenido a tener en cuenta a la hora de decidir la pol�tica de seguridad e implementarla.
+�	Las ISO aplican un valor agregado al momento de ofrecer mis servicios
+�	El gobierno de Estados Unidos impuso unas reglas para agencias federales a la hora de consumir conjuntos cloud, tambi�n opto una pol�tica de CloudFert
+�	CloudFert: Si hay una necesidad o proyecto busca en primera instancia un servicio de cloud si est� disponible, cons�melo, sino, se buscar� un proyecto o servicio a medida.
+�	Modelo de confianza cero: Como el per�metro no es f�cil de ubicar o ya no existe, entonces se opta por la pol�tica de confianza cero, es decir que no se puede confiar en nada ni nadie, nada se da por hecho. Se asume que todo hay que filtrar, todos los registros hay que mirarlos. Siempre poner u mecanismo se seguridad.
+�	Por mucho que se intente prevenir el ataque, va a suceder, y por mucho que se intente evitar que tenga �xito, lo va a tener. Por eso no se tiene que quedar en la prevenci�n, sino contenerlo, remedir el ataque o evitar que se propague.
+�	Invertir en mecanismos de prevenci�n NO elimina el riesgo de intrusiones.
